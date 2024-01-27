@@ -40,6 +40,7 @@ Tüm ihtiyaçlarınız için bir Açık Kaynaklı Müzik Çalar Uygulaması!
 - [Japonca :jp:](/README.JA.md)
 - [Belarusça :belarus:](/README.BE.md)
 - [Endonezya dili :indonesia:](/README.ID.md)
+- [İtalyanca :it:](/README.IT.md)
 
 [Uygulamayı Weblate üzerinden çevirin!](https://hosted.weblate.org/projects/blackhole/translations/)
 

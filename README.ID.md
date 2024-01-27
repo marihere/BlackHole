@@ -38,6 +38,7 @@ Sebuah Pemutar Musik Sumber Terbuka untuk semua kebutuhanmu!
 - [Portuguese :brazil:](/README.PT.md)
 - [Japanese :jp:](/README.JA.md)
 - [Belarusian :belarus:](/README.BE.md)
+- [Italian :it:](/README.IT.md)
 
 [Terjemakan Aplikasi di Weblate](https://hosted.weblate.org/projects/blackhole/translations/)
 

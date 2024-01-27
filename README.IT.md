@@ -2,17 +2,17 @@
 
 # BlackHole
 
-An Open-Source Music Player App for all your needs!
+Un lettore musicale open-source per tutte le tue esigenze!
 
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/Sangwan5688/BlackHole) ![Downloads](https://img.shields.io/github/downloads/Sangwan5688/BlackHole/total)
 [![Build](https://github.com/Sangwan5688/BlackHole/actions/workflows/flutter.yml/badge.svg)](https://github.com/Sangwan5688/BlackHole/actions/workflows/flutter.yml)
 [![Translation-Status](https://hosted.weblate.org/widgets/blackhole/-/translations/svg-badge.svg)](https://hosted.weblate.org/engage/blackhole/)
 
-### Don't forget to :star: the repo
+### Non dimenticarti di :star: il repo
 
 [![GitHub stars](https://img.shields.io/github/stars/Sangwan5688/BlackHole.svg?style=social&label=Star)](https://github.com//Sangwan5688/BlackHole) ![GitHub forks](https://img.shields.io/github/forks/Sangwan5688/BlackHole.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/Sangwan5688.svg?style=social&label=Follow)
 
-## Download
+## Scarica
 
 [<img src="get_website.png"
      alt="Download from Website"
@@ -30,7 +30,7 @@ An Open-Source Music Player App for all your needs!
      alt="Get it on IzzyDroid"
      height="90">](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
 
-## Translations
+## Traduzioni
 - [Turkish :tr:](/README.TR.md)
 - [Spanish :es:](/README.ES.md)
 - [Russian :ru:](/README.RU.md)
@@ -39,54 +39,55 @@ An Open-Source Music Player App for all your needs!
 - [Japanese :jp:](/README.JA.md)
 - [Belarusian :belarus:](/README.BE.md)
 - [Indonesian :indonesia:](/README.ID.md)
-- [Italian :it:](/README.IT.md)
 
-[Translate App on Weblate](https://hosted.weblate.org/projects/blackhole/translations/)
+[Traduci l'app su Weblate](https://hosted.weblate.org/projects/blackhole/translations/)
 
-## Features
+## Funzionalità
 
-- High Streaming Quality (320kbps AAC)
-- Song, Album, Artist and Playlist Search
-- Language Specific Promoted Playlists
-- Trending Songs
-- Artist and Genre Radios
-- Support 15+ music languages
-- Local and Global Top Spotify songs
-- Add Songs to Favorite
-- Playlists support
-- Import Playlists from Spotify & YouTube
-- Import/Export Playlists as JSON File
-- Share Playlists
+- Streaming di alta qualità (320kbps AAC)
+- Ricerca di brani, album, artisti e playlist
+- Playlist sponsorizzate specifiche per lingua
+- Canzoni di tendenza
+- Radio di artisti e generi
+- Supporto per musiche in oltre 15 lingue
+- Classifica canzoni Spotify locali e globali
+- Aggiungi brani ai preferiti
+- Supporto per playlist
+- Importazione di playlist da Spotify e YouTube
+- Importazione ed esportazione delle playlist sottoforma di file JSON
+- Condividisione delle playlist
 - Sleep timer
-- Lyrics Support
-- Queue Management
-- Listening history record
-- Dark mode / accent color
-- Custom Gradients and other Theme options
-- Supports Portrait as well as Landscape mode
-- Download for offline play (320kbps with ID3 tags)
-- Play Online as well as Offline Songs
-- Tag Editing Support
-- Trending Search Results
-- YouTube Search Support
-- Promoted Youtube Playlists
-- Play videos as audio
-- Auto Song Recommendations
-- Inbuilt Equalizer
-- Backup & Restore
-- Auto Update Check
-- Cache support
-- No Subscription
-- No Ads
+- Supporto per i testi
+- Gestione della coda
+- Cronologia dei brani ascoltati
+- Modalità scura e colori in risalto
+- Gradienti personalizzati e altre opzioni per i temi
+- Supporto sia per la modalità ritratto che paesaggio
+- Download per la riproduzione offline (320 kbps con tag ID3)
+- Riproduzione di brani online e offline
+- Supporto per la modifica dei tag
+- Risultati di ricerca di tendenza
+- Supporto per la ricerca su YouTube
+- Playlist Youtube sponsorizzate
+- Riproduzione dei video come se fossero audio
+- Consigli automatizzati sui brani
+- Equalizzatore integrato
+- Backup e ripristino
+- Controllo aggiornamento automatico
+- Supporto della cache
+- Nessun abbonamento
+- Niente annunci
 
-and much more...
-Check it yourself :)
+
+
+e molto altro...
+Controlla tu stesso/a :)
 
 ## Screenshots
 
 <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true" width="32%">
 
-## License
+## Licenza
 
 ```
 Copyright © 2021 Ankit Sangwan
@@ -113,43 +114,43 @@ how to obtain the original software, should clearly STATE ALL CHANGES made and s
 Use of this software under any "non-free" license is NOT permitted.
 ```
 
-See the [GNU General Public License](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE) for more details.
+Vedi la [GNU General Public License](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE) per maggiori informazioni.
 
-## Building from Source
+## Compila dal codice sorgente
 
-1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
-2. Fetch latest source code from master branch.
+1.  Se non hai il Flutter SDK installato sul tuo computer, visita il sito ufficiale di [Flutter](https://flutter.dev/)
+2. Recupera il codice sorgente più recente dal master branch.
 
 ```
 git clone https://github.com/Sangwan5688/BlackHole.git
 ```
 
-3. Run the app with Android Studio or VS Code. Or the command line:
+3. Fai partire l'app con Android Studio o Visual Studio Code. Oppure utilizza i seguenti comandi:
 
 ```
 flutter pub get
 flutter run
 ```
 
-## Contribute
+## Contribuisci
 
-Contributions are welcome. Please read our [contributing guidelines](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) before contributing.
+I contributi sono ben accetti. Per piacere leggi le nostre [linee guida sulla contribuzione](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) prima di contribuire.
 
-## Facing any Issue?
+## Stai riscontrando qualche problema?
 
-Have a look at some [common Issues](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
+Dai un'occhiata ad alcuni dei [problemi più comuni](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) in cui potresti incorrere. Se il tuo problema non è presente, sentiti libero/a di aprire un issue :)
 
-## Want to test Beta Versions? Need help??
+## Vuoi testare le versioni beta? Hai bisogno di aiuto??
 
-You can join our [Telegram Channel](https://t.me/blackhole_official) or [Telegram Group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9), if you have any query, or need help with something as well as to get beta updates of the project.
+Puoi unirti al nostro [canale Telegram](https://t.me/blackhole_official) oppure al nostro [gruppo Telegram](https://t.me/joinchat/fHDC1AWnOhw0ZmI9) se hai qualche domanda o hai bisogno di aiuto con qualcosa o anche per ottenere aggiornamenti sul progetto beta.
 
-## Liked my work?
+## Ti è piaciuto il mio lavoro?
 
 <a href="https://www.buymeacoffee.com/ankitsangwan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-## What's New
+## Cosa c'è di nuovo?
 
-To read full changelog visit the [wiki page](https://github.com/Sangwan5688/BlackHole/wiki/Changelog)
+Per leggere l'intero changelog visita la [pagina wiki](https://github.com/Sangwan5688/BlackHole/wiki/Changelog).
 
 
 ## Disclaimer

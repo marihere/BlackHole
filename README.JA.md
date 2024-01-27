@@ -40,6 +40,7 @@
 - [Portuguese :brazil:](/README.PT.md)
 - [Belarusian :belarus:](/README.BE.md)
 - [Indonesian :indonesia:](/README.ID.md)
+- [Italian :it:](/README.IT.md)
 
 [Weblateでアプリを翻訳](https://hosted.weblate.org/projects/blackhole/translations/)
 
